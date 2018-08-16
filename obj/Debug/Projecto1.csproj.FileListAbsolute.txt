@@ -1,0 +1,7 @@
+c:\users\student\source\repos\Projecto1\Projecto1\bin\Debug\Projecto1.exe.config
+c:\users\student\source\repos\Projecto1\Projecto1\bin\Debug\Projecto1.exe
+c:\users\student\source\repos\Projecto1\Projecto1\bin\Debug\Projecto1.pdb
+c:\users\student\source\repos\Projecto1\Projecto1\obj\Debug\Projecto1.csprojAssemblyReference.cache
+c:\users\student\source\repos\Projecto1\Projecto1\obj\Debug\Projecto1.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\Projecto1\Projecto1\obj\Debug\Projecto1.exe
+c:\users\student\source\repos\Projecto1\Projecto1\obj\Debug\Projecto1.pdb
